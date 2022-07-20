@@ -1,7 +1,9 @@
 <h1 align="center">✈️ App Travel ✈️</h1>
+<div>
+  <img src="src/assets/screen-01.jpeg" alt="printScreen" style="width: 500px; height: 850px">
+  <img src="src/assets/screen-02.jpeg" alt="printScreen"  style="width: 500px; height: 850px">
+</div>
 
-<img src="src/assets/screen-01.jpeg" alt="printScreen">
-<img src="src/assets/screen-02.jpeg" alt="printScreen">
 
 > Tela Home de um App de viagem.
 
